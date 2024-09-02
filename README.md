@@ -1,3 +1,5 @@
 # estudantealurastar
+bem vindo ao meu perfil
 
- bem vindo 
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Estou me desenvolvendo na linguagem JavaScript
