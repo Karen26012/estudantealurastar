@@ -1,3 +1,3 @@
 # estudantealurastar
 
-io bem vindo 
+ bem vindo 
